@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="" alt="Logo" width="240px">
-</h1>
-
 <br></br>
 
 <p align="center">
@@ -11,10 +7,6 @@
 </p>
 
 <br>
-
-<h1 align="center" flexDirection="row">
-  <img alt="image" title="" src="" width="80%" height="500" />
-</h1>
 
 ## 🚀 Getting started
 
@@ -40,12 +32,9 @@ This project was developed with the following technologies:
 
 
 ## 📄 Project
-💰 
+💰 Landing page
 
 <br></br>
-
-## 🔖 Layout
-- 
 
 
 <br></br>
