@@ -2,8 +2,7 @@
 
 <p align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
+  <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -13,7 +12,7 @@
 Clone the project and access the folder.
 
 ```bash
-$ https://
+$ https://github.com/JoaoMarceloSousa/Site_NLW.git
 $ cd web
 
 $ run with live server
@@ -33,8 +32,6 @@ This project was developed with the following technologies:
 
 ## 📄 Project
 💰 Landing page
-
-<br></br>
 
 
 <br></br>
