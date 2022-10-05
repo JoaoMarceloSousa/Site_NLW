@@ -34,7 +34,9 @@ $ run with live server
 
 This project was developed with the following technologies:
 
-- 
+- HTML
+- CSS
+- Java Script
 
 
 ## 📄 Project
