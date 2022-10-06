@@ -31,10 +31,10 @@ This project was developed with the following technologies:
 
 
 ## 📄 Project
-💰 Landing page
+💰 Landing page.
 
 
 <br></br>
 
-Made with ♥ by  <br></br>
+Made with ♥ by João Marcelo <br></br>
 
