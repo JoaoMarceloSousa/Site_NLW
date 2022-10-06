@@ -31,7 +31,7 @@ This project was developed with the following technologies:
 
 
 ## 📄 Project
-💰 Landing page
+💰 Landing page.
 
 
 <br></br>
