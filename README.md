@@ -36,5 +36,5 @@ This project was developed with the following technologies:
 
 <br></br>
 
-Made with ♥ by  <br></br>
+Made with ♥ by João Marcelo <br></br>
 
